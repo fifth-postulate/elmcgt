@@ -1,4 +1,4 @@
-module CGT.Permutation exposing (Permutation, identity, transposition, multiply, fromImages, inverse, isIdentity, firstMoved, fromArray)
+module CGT.Permutation exposing (Permutation, identity, transposition, multiply, fromImages, inverse, isIdentity, firstMoved, fromArray, image)
 
 import Array exposing (Array)
 
